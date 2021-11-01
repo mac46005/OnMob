@@ -3,7 +3,7 @@ using System.IO;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace CSharp_Shell
+namespace OnMod.Proj
 {
 
     public class Program 
